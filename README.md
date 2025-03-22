@@ -13,7 +13,7 @@ A RESTful API for a YouTube-like application built with Express and Sequelize.
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/RuberDucky/youtube-api-lecture
 cd youtube
 ```
 
